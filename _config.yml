@@ -20,7 +20,7 @@ repository               : "JianmingWANG1998/JianmingWANG1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "WJM.png"
   name             : "WANG JIANMING"
   pronouns         : # example: "she/her"  
   bio              : "BCI & Machine Learning"
