@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student in CSE department of Hong Kong University of Science and Technology (HKUST). My advisors are [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/) and [Prof. Zhihong Li](https://ic.pku.edu.cn/szdw/zzjs/L1/lzh/index.htm). My research interests mainly include Brain Computer Interface (BCI) and Machine Learning, aiming at building intelligent BCI systems.
-**Currently, I am working on: 1) EEG Representation Learning (Self-Supervised Learning) 2) Evaluation of Clinical Solutions using EEG **
+**Currently, I am working on: 1) EEG Representation Learning (Self-Supervised Learning) 2) Evaluation of Clinical Solutions using EEG**
 
 # News
 - *2024.09*: Hello HKUST again! (Yesterday Once More)
