@@ -20,7 +20,7 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 **Patent:**
 - **Bruxism Event Detection System and Bruxism Data Processing Method**    
 **Jianming WANG**, Junshi Li, Dong Huang.    
-*China National Intellectual Property Administration, 2023.* [[Google Patents]([https://arxiv.org/abs/2310.01875](https://patents.google.com/patent/CN115844337B/zh))]
+*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115844337B/zh)]
 
 # Awards
 - *2019.12*, China Unicom Big Data Sholarship
