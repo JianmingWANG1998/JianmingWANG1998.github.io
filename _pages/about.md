@@ -21,8 +21,14 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - **Method and System for Detecting Bruxism Movements**     
 **Jianming WANG**, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115813351A/zh)]
+- **Method and Device for Determining Electrical Stimulation Scheme for Consciousness Disorder Rehabilitation** 
+**Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
+*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
+
 
 # Awards
+- *2023.6*, Jingjinji National Center of Technology Innovation Certificate of Excellent Graduate
+- *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician
 - *2019.12*, China Unicom Big Data Sholarship
 
 # Educations
