@@ -32,7 +32,9 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - *2019.12*, China Unicom Big Data Sholarship
 
 # Educations
-- *2024.08 - Now*, Ph.D. student in Computer Science and Engineering, The Hong Kong University of Science and Technology.
+- *2024.08 - Now*, Ph.D. student in Computer Science and Engineering, HKUST.
+- *2020.08 - 2023.08*, MSc in Big Data Technology, HKUST.
+- *2016.08 - 2020.08*, BSc in Computer Science, BNU-HKBU UIC.
 
 # Experiences
 
