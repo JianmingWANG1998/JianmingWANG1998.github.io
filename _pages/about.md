@@ -33,7 +33,7 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 
 # Awards
 - *2023.6*, Jingjinji National Center of Technology Innovation Certificate of Excellent Graduate[[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
-- *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician[[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
+- *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician[[Link](https://jingjinji.cn/xwzx/ywbb/85de11639d9e49798b1d7d56e99ca900.htm)]
 - *2019.12*, China Unicom Big Data Sholarship
 
 # Educations
