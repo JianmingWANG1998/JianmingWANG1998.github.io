@@ -24,10 +24,10 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - **Consciousness disturbance rehabilitation-oriented wake-promoting system**     
 **Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
-- **Exercise function recovery system and stimulation scheme determining method thereof**     
+- **Exercise function recovery system and stimulation scheme determining method**     
 **Jianming WANG**, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/zh)]
-- **Nerve tissue transmission bioelectric signal processing method and equipment under external electric stimulation**     
+- **Nerve tissue transmission bioelectric signal processing method and equipment**     
 **Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
 
