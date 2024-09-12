@@ -21,16 +21,19 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - **Method and System for Detecting Bruxism Movements**     
 **Jianming WANG**, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115813351A/zh)]
-- **PDoC Awaken System with Spinal Cord Stimulation**     
+- **Consciousness disturbance rehabilitation-oriented wake-promoting system**     
 **Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
 - **Exercise function recovery system and stimulation scheme determining method thereof**     
 **Jianming WANG**, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/zh)]
+- **Nerve tissue transmission bioelectric signal processing method and equipment under external electric stimulation**     
+**Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang.   
+*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
 
 # Awards
-- *2023.6*, Jingjinji National Center of Technology Innovation Certificate of Excellent Graduate[(https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
-- *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician[(https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
+- *2023.6*, Jingjinji National Center of Technology Innovation Certificate of Excellent Graduate[[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
+- *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician[[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
 - *2019.12*, China Unicom Big Data Sholarship
 
 # Educations
