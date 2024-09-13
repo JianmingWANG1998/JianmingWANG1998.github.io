@@ -21,15 +21,16 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - **Nerve tissue transmission bioelectric signal processing method and equipment**     
 **Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2024.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
+- **Consciousness disturbance rehabilitation-oriented wake-promoting system**     
+**Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
+*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
 - **Bruxism Event Detection System and Bruxism Data Processing Method**     
 **Jianming WANG**, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115844337B/zh)]
 - **Method and System for Detecting Bruxism Movements**     
 **Jianming WANG**, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115813351A/zh)]
-- **Consciousness disturbance rehabilitation-oriented wake-promoting system**     
-**Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
-*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
+
 
 
 # Awards
