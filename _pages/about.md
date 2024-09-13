@@ -32,8 +32,10 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
 
 # Awards
+- *2023.12*, Member, HKUST SENG-BICI Entrepreneurship PhD Program[[Link](https://kt.hkust.edu.hk/2024-hkust-seng-bici-entrepreneurship-phd-program)]
 - *2023.6*, Jingjinji National Center of Technology Innovation Excellent Graduate[[Link](https://www.jingjinji.cn/xwzx/ywbb/bf2ab611b35f428e8d0237488557d28b.htm)]
 - *2023.6*, Jingjinji National Center of Technology Innovation Cyan Innovatician[[Link](https://jingjinji.cn/xwzx/ywbb/85de11639d9e49798b1d7d56e99ca900.htm)]
+- *2020.9*, Member, HKUST Innovation Leaders Program [[Link](https://calendar.hkust.edu.hk/events/2020-pilot-scheme-innovation-leaders-program-call-application)]
 - *2019.12*, China Unicom Big Data Sholarship
 
 # Educations
