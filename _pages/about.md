@@ -15,6 +15,12 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 
 
 # Publications 
+- **Exercise function recovery system and stimulation scheme determining method**     
+**Jianming WANG**, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang.   
+*China National Intellectual Property Administration, 2024.* [[Google Patents](https://patents.google.com/patent/CN118177838B/zh)]
+- **Nerve tissue transmission bioelectric signal processing method and equipment**     
+**Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang.   
+*China National Intellectual Property Administration, 2024.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
 - **Bruxism Event Detection System and Bruxism Data Processing Method**     
 **Jianming WANG**, Junshi Li, Dong Huang.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN115844337B/zh)]
@@ -24,12 +30,7 @@ I am currently a Ph.D. student in CSE department of Hong Kong University of Scie
 - **Consciousness disturbance rehabilitation-oriented wake-promoting system**     
 **Jianming WANG**, Jiapeng He, Hao Kang, Yifan Yin, Xianghua Lin, Junshi Li.   
 *China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN116712672A/zh)]
-- **Exercise function recovery system and stimulation scheme determining method**     
-**Jianming WANG**, Jiapeng He, Hao Kang, Xianghua Lin, Yifan Yin, Junshi Li, Dong Huang.   
-*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/zh)]
-- **Nerve tissue transmission bioelectric signal processing method and equipment**     
-**Jianming WANG**, Jiapeng He, Yifan Yin, Junshi Li, Dong Huang.   
-*China National Intellectual Property Administration, 2023.* [[Google Patents](https://patents.google.com/patent/CN118177838B/en)]
+
 
 # Awards
 - *2023.12*, Member, HKUST SENG-BICI Entrepreneurship PhD Program[[Link](https://kt.hkust.edu.hk/2024-hkust-seng-bici-entrepreneurship-phd-program)]
