@@ -1,7 +1,7 @@
 ---
 title: "Patent 1"
 collection: publications
-category: Patent
+category: patents
 permalink: /publication/2024-02-17-patent-1
 excerpt: 'This is a test'
 date: 2024-02-17
